@@ -41,10 +41,10 @@ The analysis brings together 4 structured CSV files, cleaned in Excel and integr
 
 📋 Dashboard Pages
 
-🔹Overview - Overall business performance and key KPIs.
-🔹Sales Analysis - Revenue and order trends across categories and time.
-🔹Pizza Analysis - Best and worst performing pizzas by revenue and quantity.
-🔹Time Analysis - Sales patterns by hour, weekday, and month.
+🔹Overview - Overall business performance and key KPIs.  
+🔹Sales Analysis - Revenue and order trends across categories and time.  
+🔹Pizza Analysis - Best and worst performing pizzas by revenue and quantity.  
+🔹Time Analysis - Sales patterns by hour, weekday, and month.  
 
 💡 Key Insights
 
