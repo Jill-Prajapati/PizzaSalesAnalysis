@@ -57,7 +57,7 @@ The analysis brings together 4 structured CSV files, cleaned in Excel and integr
 - 📉 October generated the lowest monthly orders.
 
 📸 Dashboard
-![Dashboard Screenshot](Dashoboardimage1.png)
-![Dashboard Screenshot](Dashoboardimage2.png)
-![Dashboard Screenshot](Dashoboardimage3.png)
-![Dashboard Screenshot](Dashoboardimage4.png)
+![Dashboard Screenshot](DashoboardImage1.png)
+![Dashboard Screenshot](DashoboardImage2.png)
+![Dashboard Screenshot](DashoboardImage3.png)
+![Dashboard Screenshot](DashoboardImage4.png)
