@@ -12,9 +12,9 @@ In this project I have
 
 🛠 Tools & Technologies
 
-Excel - Data Cleaning and accuracy.
-Power BI – Data modeling, DAX measures, and dashboard visualization.
-SQL – Data aggregation and key findings.
+- Excel - Data Cleaning and accuracy.
+- Power BI – Data modeling, DAX measures, and dashboard visualization.
+- SQL – Data aggregation and key findings.
 
 📈 Dashboard Features
 
